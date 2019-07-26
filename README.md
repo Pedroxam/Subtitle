@@ -9,6 +9,12 @@
 
 Enjoy !
 
-
-
 By Pedram
+
+
+<h2>Installation</h2>
+
+in composer, laravel new
+then replace files in main of laravel
+
+start !
