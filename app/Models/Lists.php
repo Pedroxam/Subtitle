@@ -73,6 +73,6 @@ class Lists
             }
             return preg_replace('/(.*?)\/u\/(\d++)\">/','',$links);
         }
-        return 'هیچ موردی یافت نشد !';
+        return 'هیچ موردی یافت نشد !'; // Nothing Found
     }
 }
