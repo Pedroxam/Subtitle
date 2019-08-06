@@ -70,6 +70,6 @@ class Search
             return str_replace('"/', '"'.url('/') . '/' ,$links);
         }
 
-        return 'هیچ موردی یافت نشد !';
+        return 'هیچ موردی یافت نشد !'; //Nothing Found
     }
 }
