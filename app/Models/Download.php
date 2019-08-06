@@ -48,10 +48,10 @@ class Download
     }
 
     /**
-     * Subtitle List page.
+     * Curl
      *
-     * @param $title
-     * @return bool|string
+     * @param $url
+     * @return val
      */
     public function download_page($url)
     {
