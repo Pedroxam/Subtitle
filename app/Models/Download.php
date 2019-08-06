@@ -15,7 +15,7 @@ class Download
     private $lang;
 
     /**
-     * @var $lang | subtitle id
+     * @var $id | subtitle id
      */
     private $id;
 
